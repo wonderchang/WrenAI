@@ -79,8 +79,9 @@ def _vl_error(spec: dict) -> str | None:
 
 
 def _strip_colors(spec: dict) -> list[str]:
-    """Drop color scales and config so the theme's validated palette applies.
+    """Drop color scales, config and hidden color legends.
 
+    The theme's validated palette then applies and every color has a legend.
     Keeps `scale.domain`, which sets the legend order. Returns what was removed.
     """
     removed = []
@@ -92,6 +93,10 @@ def _strip_colors(spec: dict) -> list[str]:
         if isinstance(node, dict):
             for k, v in node.items():
                 if k in COLOR_CHANNELS and isinstance(v, dict):
+                    if "legend" in v and v["legend"] is None:
+                        # Color must never be the only key to identity.
+                        del v["legend"]
+                        removed.append(".".join([*path, k, "legend"]))
                     scale = v.get("scale")
                     if isinstance(scale, dict):
                         for key in ("range", "scheme"):
@@ -287,7 +292,8 @@ def main() -> None:
         `aggregate`, `window`, ...), `datum` constants and facets all work.
         Colors come from a validated light/dark theme: color scale `range` and
         `scheme` and any `config` are removed, but `scale.domain` is kept, so
-        use it to order categories. The spec is checked against the Vega-Lite
+        use it to order categories; `legend: null` on a color channel is
+        removed. The spec is checked against the Vega-Lite
         schema and an invalid one returns an error naming the bad property.
         The width defaults to the frame width. `limit` caps the rows (default 500, max 5000).
         """
@@ -307,8 +313,8 @@ def main() -> None:
         )
         if removed:
             summary += (
-                f" Removed {', '.join(removed)}: colors come from the theme, "
-                "so do not set them."
+                f" Removed {', '.join(removed)}: colors come from the theme and "
+                "color legends stay visible, so do not set these."
             )
         out = {"spec": spec, "sql": sql, "rows": rows}
         if title:

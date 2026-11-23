@@ -258,8 +258,10 @@ function lineChart(root, d, ctx, area) {
     : [...new Set(rows.map((r) => String(r[x])))];
   const pts = new Map(ser.list.map((k) => [k, new Map()]));
   for (const r of rows) pts.get(ser.key(r)).set(numericX ? num(r[x]) : String(r[x]), num(r[y]));
-  const ys = rows.map((r) => num(r[y])).filter(Number.isFinite);
-  const t = ticks(Math.min(0, ...ys), Math.max(...ys)); const dom = [t[0], t[t.length - 1]];
+  // Lines show change, so the axis fits the data (and any reference lines);
+  // areas encode magnitude by their fill, so they keep the zero baseline.
+  const ys = [...rows.map((r) => num(r[y])).filter(Number.isFinite), ...refExtent(d.reference, "y0", "y1")];
+  const t = ticks(area ? Math.min(0, ...ys) : Math.min(...ys), Math.max(...ys)); const dom = [t[0], t[t.length - 1]];
   const box = { l: M.l, r: W - M.r, t: M.t, b: H - M.b };
   const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, class: "chart" }, root);
   const sy = (v) => box.t + (box.b - box.t) * (1 - (v - dom[0]) / (dom[1] - dom[0]));
