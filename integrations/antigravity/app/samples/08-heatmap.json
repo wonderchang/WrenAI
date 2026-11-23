@@ -1,0 +1,255 @@
+{
+ "chart": "heatmap",
+ "x": "hour",
+ "y": "weekday",
+ "value": "orders",
+ "title": "Orders by weekday and hour",
+ "sql": "\u2026",
+ "rows": [
+  {
+   "weekday": "Mon",
+   "hour": "08h",
+   "orders": 60
+  },
+  {
+   "weekday": "Mon",
+   "hour": "10h",
+   "orders": 121
+  },
+  {
+   "weekday": "Mon",
+   "hour": "12h",
+   "orders": 109
+  },
+  {
+   "weekday": "Mon",
+   "hour": "14h",
+   "orders": 130
+  },
+  {
+   "weekday": "Mon",
+   "hour": "16h",
+   "orders": 97
+  },
+  {
+   "weekday": "Mon",
+   "hour": "18h",
+   "orders": 136
+  },
+  {
+   "weekday": "Mon",
+   "hour": "20h",
+   "orders": 90
+  },
+  {
+   "weekday": "Tue",
+   "hour": "08h",
+   "orders": 64
+  },
+  {
+   "weekday": "Tue",
+   "hour": "10h",
+   "orders": 85
+  },
+  {
+   "weekday": "Tue",
+   "hour": "12h",
+   "orders": 76
+  },
+  {
+   "weekday": "Tue",
+   "hour": "14h",
+   "orders": 119
+  },
+  {
+   "weekday": "Tue",
+   "hour": "16h",
+   "orders": 102
+  },
+  {
+   "weekday": "Tue",
+   "hour": "18h",
+   "orders": 108
+  },
+  {
+   "weekday": "Tue",
+   "hour": "20h",
+   "orders": 129
+  },
+  {
+   "weekday": "Wed",
+   "hour": "08h",
+   "orders": 76
+  },
+  {
+   "weekday": "Wed",
+   "hour": "10h",
+   "orders": 116
+  },
+  {
+   "weekday": "Wed",
+   "hour": "12h",
+   "orders": 112
+  },
+  {
+   "weekday": "Wed",
+   "hour": "14h",
+   "orders": 136
+  },
+  {
+   "weekday": "Wed",
+   "hour": "16h",
+   "orders": 123
+  },
+  {
+   "weekday": "Wed",
+   "hour": "18h",
+   "orders": 145
+  },
+  {
+   "weekday": "Wed",
+   "hour": "20h",
+   "orders": 139
+  },
+  {
+   "weekday": "Thu",
+   "hour": "08h",
+   "orders": 60
+  },
+  {
+   "weekday": "Thu",
+   "hour": "10h",
+   "orders": 108
+  },
+  {
+   "weekday": "Thu",
+   "hour": "12h",
+   "orders": 95
+  },
+  {
+   "weekday": "Thu",
+   "hour": "14h",
+   "orders": 129
+  },
+  {
+   "weekday": "Thu",
+   "hour": "16h",
+   "orders": 130
+  },
+  {
+   "weekday": "Thu",
+   "hour": "18h",
+   "orders": 139
+  },
+  {
+   "weekday": "Thu",
+   "hour": "20h",
+   "orders": 94
+  },
+  {
+   "weekday": "Fri",
+   "hour": "08h",
+   "orders": 72
+  },
+  {
+   "weekday": "Fri",
+   "hour": "10h",
+   "orders": 107
+  },
+  {
+   "weekday": "Fri",
+   "hour": "12h",
+   "orders": 132
+  },
+  {
+   "weekday": "Fri",
+   "hour": "14h",
+   "orders": 127
+  },
+  {
+   "weekday": "Fri",
+   "hour": "16h",
+   "orders": 91
+  },
+  {
+   "weekday": "Fri",
+   "hour": "18h",
+   "orders": 126
+  },
+  {
+   "weekday": "Fri",
+   "hour": "20h",
+   "orders": 92
+  },
+  {
+   "weekday": "Sat",
+   "hour": "08h",
+   "orders": 113
+  },
+  {
+   "weekday": "Sat",
+   "hour": "10h",
+   "orders": 141
+  },
+  {
+   "weekday": "Sat",
+   "hour": "12h",
+   "orders": 112
+  },
+  {
+   "weekday": "Sat",
+   "hour": "14h",
+   "orders": 169
+  },
+  {
+   "weekday": "Sat",
+   "hour": "16h",
+   "orders": 159
+  },
+  {
+   "weekday": "Sat",
+   "hour": "18h",
+   "orders": 135
+  },
+  {
+   "weekday": "Sat",
+   "hour": "20h",
+   "orders": 128
+  },
+  {
+   "weekday": "Sun",
+   "hour": "08h",
+   "orders": 107
+  },
+  {
+   "weekday": "Sun",
+   "hour": "10h",
+   "orders": 143
+  },
+  {
+   "weekday": "Sun",
+   "hour": "12h",
+   "orders": 140
+  },
+  {
+   "weekday": "Sun",
+   "hour": "14h",
+   "orders": 120
+  },
+  {
+   "weekday": "Sun",
+   "hour": "16h",
+   "orders": 120
+  },
+  {
+   "weekday": "Sun",
+   "hour": "18h",
+   "orders": 126
+  },
+  {
+   "weekday": "Sun",
+   "hour": "20h",
+   "orders": 164
+  }
+ ]
+}

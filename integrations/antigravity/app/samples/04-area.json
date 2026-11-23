@@ -1,0 +1,69 @@
+{
+ "chart": "area",
+ "x": "month",
+ "y": "orders",
+ "title": "Monthly orders, North",
+ "sql": "\u2026",
+ "rows": [
+  {
+   "month": "2026-01",
+   "region": "North",
+   "orders": 103
+  },
+  {
+   "month": "2026-02",
+   "region": "North",
+   "orders": 99
+  },
+  {
+   "month": "2026-03",
+   "region": "North",
+   "orders": 100
+  },
+  {
+   "month": "2026-04",
+   "region": "North",
+   "orders": 115
+  },
+  {
+   "month": "2026-05",
+   "region": "North",
+   "orders": 101
+  },
+  {
+   "month": "2026-06",
+   "region": "North",
+   "orders": 121
+  },
+  {
+   "month": "2026-07",
+   "region": "North",
+   "orders": 114
+  },
+  {
+   "month": "2026-08",
+   "region": "North",
+   "orders": 115
+  },
+  {
+   "month": "2026-09",
+   "region": "North",
+   "orders": 118
+  },
+  {
+   "month": "2026-10",
+   "region": "North",
+   "orders": 126
+  },
+  {
+   "month": "2026-11",
+   "region": "North",
+   "orders": 140
+  },
+  {
+   "month": "2026-12",
+   "region": "North",
+   "orders": 132
+  }
+ ]
+}

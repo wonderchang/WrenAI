@@ -1,0 +1,2409 @@
+{
+ "chart": "histogram",
+ "x": "basket_size",
+ "bins": 24,
+ "title": "Basket size distribution",
+ "sql": "\u2026",
+ "rows": [
+  {
+   "basket_size": 38.2
+  },
+  {
+   "basket_size": 58.1
+  },
+  {
+   "basket_size": 31.4
+  },
+  {
+   "basket_size": 36.7
+  },
+  {
+   "basket_size": 36.7
+  },
+  {
+   "basket_size": 30.6
+  },
+  {
+   "basket_size": 34.1
+  },
+  {
+   "basket_size": 22.9
+  },
+  {
+   "basket_size": 23.5
+  },
+  {
+   "basket_size": 39.7
+  },
+  {
+   "basket_size": 53.6
+  },
+  {
+   "basket_size": 56.0
+  },
+  {
+   "basket_size": 15.3
+  },
+  {
+   "basket_size": 40.6
+  },
+  {
+   "basket_size": 50.8
+  },
+  {
+   "basket_size": 46.9
+  },
+  {
+   "basket_size": 37.8
+  },
+  {
+   "basket_size": 62.7
+  },
+  {
+   "basket_size": 85.6
+  },
+  {
+   "basket_size": 43.5
+  },
+  {
+   "basket_size": 32.9
+  },
+  {
+   "basket_size": 61.7
+  },
+  {
+   "basket_size": 46.3
+  },
+  {
+   "basket_size": 46.7
+  },
+  {
+   "basket_size": 51.6
+  },
+  {
+   "basket_size": 39.3
+  },
+  {
+   "basket_size": 30.5
+  },
+  {
+   "basket_size": 20.2
+  },
+  {
+   "basket_size": 16.8
+  },
+  {
+   "basket_size": 69.8
+  },
+  {
+   "basket_size": 31.4
+  },
+  {
+   "basket_size": 62.9
+  },
+  {
+   "basket_size": 45.8
+  },
+  {
+   "basket_size": 19.0
+  },
+  {
+   "basket_size": 26.8
+  },
+  {
+   "basket_size": 22.6
+  },
+  {
+   "basket_size": 55.0
+  },
+  {
+   "basket_size": 27.2
+  },
+  {
+   "basket_size": 35.0
+  },
+  {
+   "basket_size": 31.3
+  },
+  {
+   "basket_size": 65.6
+  },
+  {
+   "basket_size": 29.9
+  },
+  {
+   "basket_size": 53.9
+  },
+  {
+   "basket_size": 39.1
+  },
+  {
+   "basket_size": 51.9
+  },
+  {
+   "basket_size": 38.6
+  },
+  {
+   "basket_size": 43.9
+  },
+  {
+   "basket_size": 62.2
+  },
+  {
+   "basket_size": 36.2
+  },
+  {
+   "basket_size": 31.2
+  },
+  {
+   "basket_size": 31.3
+  },
+  {
+   "basket_size": 106.6
+  },
+  {
+   "basket_size": 29.1
+  },
+  {
+   "basket_size": 40.3
+  },
+  {
+   "basket_size": 34.2
+  },
+  {
+   "basket_size": 50.5
+  },
+  {
+   "basket_size": 54.5
+  },
+  {
+   "basket_size": 26.3
+  },
+  {
+   "basket_size": 26.1
+  },
+  {
+   "basket_size": 65.4
+  },
+  {
+   "basket_size": 41.3
+  },
+  {
+   "basket_size": 31.9
+  },
+  {
+   "basket_size": 42.1
+  },
+  {
+   "basket_size": 22.5
+  },
+  {
+   "basket_size": 31.4
+  },
+  {
+   "basket_size": 22.7
+  },
+  {
+   "basket_size": 26.9
+  },
+  {
+   "basket_size": 33.5
+  },
+  {
+   "basket_size": 27.3
+  },
+  {
+   "basket_size": 63.7
+  },
+  {
+   "basket_size": 26.9
+  },
+  {
+   "basket_size": 23.9
+  },
+  {
+   "basket_size": 25.3
+  },
+  {
+   "basket_size": 24.9
+  },
+  {
+   "basket_size": 33.0
+  },
+  {
+   "basket_size": 37.6
+  },
+  {
+   "basket_size": 32.5
+  },
+  {
+   "basket_size": 21.8
+  },
+  {
+   "basket_size": 70.0
+  },
+  {
+   "basket_size": 28.0
+  },
+  {
+   "basket_size": 27.5
+  },
+  {
+   "basket_size": 16.3
+  },
+  {
+   "basket_size": 35.0
+  },
+  {
+   "basket_size": 20.8
+  },
+  {
+   "basket_size": 30.2
+  },
+  {
+   "basket_size": 22.3
+  },
+  {
+   "basket_size": 56.3
+  },
+  {
+   "basket_size": 51.2
+  },
+  {
+   "basket_size": 38.0
+  },
+  {
+   "basket_size": 47.1
+  },
+  {
+   "basket_size": 82.5
+  },
+  {
+   "basket_size": 31.4
+  },
+  {
+   "basket_size": 22.9
+  },
+  {
+   "basket_size": 42.7
+  },
+  {
+   "basket_size": 19.7
+  },
+  {
+   "basket_size": 40.2
+  },
+  {
+   "basket_size": 22.7
+  },
+  {
+   "basket_size": 19.0
+  },
+  {
+   "basket_size": 85.9
+  },
+  {
+   "basket_size": 35.8
+  },
+  {
+   "basket_size": 44.8
+  },
+  {
+   "basket_size": 19.0
+  },
+  {
+   "basket_size": 45.0
+  },
+  {
+   "basket_size": 22.2
+  },
+  {
+   "basket_size": 53.4
+  },
+  {
+   "basket_size": 22.6
+  },
+  {
+   "basket_size": 30.8
+  },
+  {
+   "basket_size": 51.0
+  },
+  {
+   "basket_size": 17.9
+  },
+  {
+   "basket_size": 28.9
+  },
+  {
+   "basket_size": 47.2
+  },
+  {
+   "basket_size": 67.7
+  },
+  {
+   "basket_size": 27.8
+  },
+  {
+   "basket_size": 30.9
+  },
+  {
+   "basket_size": 33.4
+  },
+  {
+   "basket_size": 17.8
+  },
+  {
+   "basket_size": 31.7
+  },
+  {
+   "basket_size": 32.0
+  },
+  {
+   "basket_size": 31.8
+  },
+  {
+   "basket_size": 26.8
+  },
+  {
+   "basket_size": 34.9
+  },
+  {
+   "basket_size": 35.6
+  },
+  {
+   "basket_size": 52.3
+  },
+  {
+   "basket_size": 14.8
+  },
+  {
+   "basket_size": 21.2
+  },
+  {
+   "basket_size": 91.6
+  },
+  {
+   "basket_size": 18.9
+  },
+  {
+   "basket_size": 55.4
+  },
+  {
+   "basket_size": 40.8
+  },
+  {
+   "basket_size": 45.5
+  },
+  {
+   "basket_size": 24.7
+  },
+  {
+   "basket_size": 60.8
+  },
+  {
+   "basket_size": 27.1
+  },
+  {
+   "basket_size": 34.4
+  },
+  {
+   "basket_size": 92.1
+  },
+  {
+   "basket_size": 58.9
+  },
+  {
+   "basket_size": 30.8
+  },
+  {
+   "basket_size": 23.7
+  },
+  {
+   "basket_size": 25.5
+  },
+  {
+   "basket_size": 46.1
+  },
+  {
+   "basket_size": 38.6
+  },
+  {
+   "basket_size": 36.5
+  },
+  {
+   "basket_size": 34.9
+  },
+  {
+   "basket_size": 31.5
+  },
+  {
+   "basket_size": 58.8
+  },
+  {
+   "basket_size": 74.4
+  },
+  {
+   "basket_size": 26.4
+  },
+  {
+   "basket_size": 26.2
+  },
+  {
+   "basket_size": 27.8
+  },
+  {
+   "basket_size": 29.8
+  },
+  {
+   "basket_size": 68.4
+  },
+  {
+   "basket_size": 30.0
+  },
+  {
+   "basket_size": 14.0
+  },
+  {
+   "basket_size": 21.8
+  },
+  {
+   "basket_size": 31.2
+  },
+  {
+   "basket_size": 82.9
+  },
+  {
+   "basket_size": 19.0
+  },
+  {
+   "basket_size": 34.9
+  },
+  {
+   "basket_size": 18.7
+  },
+  {
+   "basket_size": 40.7
+  },
+  {
+   "basket_size": 33.0
+  },
+  {
+   "basket_size": 27.9
+  },
+  {
+   "basket_size": 44.5
+  },
+  {
+   "basket_size": 25.3
+  },
+  {
+   "basket_size": 26.7
+  },
+  {
+   "basket_size": 13.5
+  },
+  {
+   "basket_size": 37.9
+  },
+  {
+   "basket_size": 23.3
+  },
+  {
+   "basket_size": 40.3
+  },
+  {
+   "basket_size": 26.2
+  },
+  {
+   "basket_size": 45.9
+  },
+  {
+   "basket_size": 29.5
+  },
+  {
+   "basket_size": 57.5
+  },
+  {
+   "basket_size": 39.3
+  },
+  {
+   "basket_size": 24.0
+  },
+  {
+   "basket_size": 62.5
+  },
+  {
+   "basket_size": 17.0
+  },
+  {
+   "basket_size": 59.0
+  },
+  {
+   "basket_size": 53.0
+  },
+  {
+   "basket_size": 59.6
+  },
+  {
+   "basket_size": 40.4
+  },
+  {
+   "basket_size": 41.8
+  },
+  {
+   "basket_size": 36.7
+  },
+  {
+   "basket_size": 26.8
+  },
+  {
+   "basket_size": 35.4
+  },
+  {
+   "basket_size": 68.8
+  },
+  {
+   "basket_size": 16.4
+  },
+  {
+   "basket_size": 58.6
+  },
+  {
+   "basket_size": 26.6
+  },
+  {
+   "basket_size": 27.7
+  },
+  {
+   "basket_size": 31.7
+  },
+  {
+   "basket_size": 33.4
+  },
+  {
+   "basket_size": 19.5
+  },
+  {
+   "basket_size": 43.7
+  },
+  {
+   "basket_size": 19.0
+  },
+  {
+   "basket_size": 40.1
+  },
+  {
+   "basket_size": 29.1
+  },
+  {
+   "basket_size": 40.4
+  },
+  {
+   "basket_size": 44.6
+  },
+  {
+   "basket_size": 35.0
+  },
+  {
+   "basket_size": 42.9
+  },
+  {
+   "basket_size": 17.0
+  },
+  {
+   "basket_size": 52.2
+  },
+  {
+   "basket_size": 24.1
+  },
+  {
+   "basket_size": 34.7
+  },
+  {
+   "basket_size": 33.7
+  },
+  {
+   "basket_size": 54.1
+  },
+  {
+   "basket_size": 19.8
+  },
+  {
+   "basket_size": 47.9
+  },
+  {
+   "basket_size": 70.1
+  },
+  {
+   "basket_size": 24.1
+  },
+  {
+   "basket_size": 15.8
+  },
+  {
+   "basket_size": 22.4
+  },
+  {
+   "basket_size": 52.7
+  },
+  {
+   "basket_size": 26.3
+  },
+  {
+   "basket_size": 32.2
+  },
+  {
+   "basket_size": 28.2
+  },
+  {
+   "basket_size": 50.7
+  },
+  {
+   "basket_size": 45.6
+  },
+  {
+   "basket_size": 38.8
+  },
+  {
+   "basket_size": 17.2
+  },
+  {
+   "basket_size": 40.1
+  },
+  {
+   "basket_size": 25.6
+  },
+  {
+   "basket_size": 39.8
+  },
+  {
+   "basket_size": 50.7
+  },
+  {
+   "basket_size": 15.4
+  },
+  {
+   "basket_size": 22.9
+  },
+  {
+   "basket_size": 43.1
+  },
+  {
+   "basket_size": 19.6
+  },
+  {
+   "basket_size": 33.3
+  },
+  {
+   "basket_size": 21.3
+  },
+  {
+   "basket_size": 32.7
+  },
+  {
+   "basket_size": 32.3
+  },
+  {
+   "basket_size": 42.1
+  },
+  {
+   "basket_size": 21.3
+  },
+  {
+   "basket_size": 35.9
+  },
+  {
+   "basket_size": 54.4
+  },
+  {
+   "basket_size": 76.5
+  },
+  {
+   "basket_size": 50.6
+  },
+  {
+   "basket_size": 45.9
+  },
+  {
+   "basket_size": 27.4
+  },
+  {
+   "basket_size": 19.8
+  },
+  {
+   "basket_size": 45.3
+  },
+  {
+   "basket_size": 38.0
+  },
+  {
+   "basket_size": 30.2
+  },
+  {
+   "basket_size": 66.1
+  },
+  {
+   "basket_size": 26.9
+  },
+  {
+   "basket_size": 42.5
+  },
+  {
+   "basket_size": 61.6
+  },
+  {
+   "basket_size": 26.5
+  },
+  {
+   "basket_size": 31.7
+  },
+  {
+   "basket_size": 92.5
+  },
+  {
+   "basket_size": 33.4
+  },
+  {
+   "basket_size": 35.1
+  },
+  {
+   "basket_size": 25.7
+  },
+  {
+   "basket_size": 22.7
+  },
+  {
+   "basket_size": 64.2
+  },
+  {
+   "basket_size": 83.3
+  },
+  {
+   "basket_size": 25.5
+  },
+  {
+   "basket_size": 29.7
+  },
+  {
+   "basket_size": 37.4
+  },
+  {
+   "basket_size": 18.0
+  },
+  {
+   "basket_size": 13.6
+  },
+  {
+   "basket_size": 31.4
+  },
+  {
+   "basket_size": 78.0
+  },
+  {
+   "basket_size": 54.3
+  },
+  {
+   "basket_size": 68.0
+  },
+  {
+   "basket_size": 79.1
+  },
+  {
+   "basket_size": 56.6
+  },
+  {
+   "basket_size": 52.4
+  },
+  {
+   "basket_size": 31.0
+  },
+  {
+   "basket_size": 40.1
+  },
+  {
+   "basket_size": 57.4
+  },
+  {
+   "basket_size": 49.6
+  },
+  {
+   "basket_size": 43.6
+  },
+  {
+   "basket_size": 40.3
+  },
+  {
+   "basket_size": 29.2
+  },
+  {
+   "basket_size": 65.7
+  },
+  {
+   "basket_size": 67.0
+  },
+  {
+   "basket_size": 31.1
+  },
+  {
+   "basket_size": 27.2
+  },
+  {
+   "basket_size": 34.7
+  },
+  {
+   "basket_size": 29.0
+  },
+  {
+   "basket_size": 46.3
+  },
+  {
+   "basket_size": 37.2
+  },
+  {
+   "basket_size": 39.8
+  },
+  {
+   "basket_size": 32.9
+  },
+  {
+   "basket_size": 48.8
+  },
+  {
+   "basket_size": 49.6
+  },
+  {
+   "basket_size": 15.5
+  },
+  {
+   "basket_size": 36.1
+  },
+  {
+   "basket_size": 47.0
+  },
+  {
+   "basket_size": 36.4
+  },
+  {
+   "basket_size": 49.8
+  },
+  {
+   "basket_size": 56.0
+  },
+  {
+   "basket_size": 19.1
+  },
+  {
+   "basket_size": 36.6
+  },
+  {
+   "basket_size": 40.5
+  },
+  {
+   "basket_size": 70.3
+  },
+  {
+   "basket_size": 62.1
+  },
+  {
+   "basket_size": 31.0
+  },
+  {
+   "basket_size": 18.9
+  },
+  {
+   "basket_size": 36.6
+  },
+  {
+   "basket_size": 51.6
+  },
+  {
+   "basket_size": 34.6
+  },
+  {
+   "basket_size": 74.2
+  },
+  {
+   "basket_size": 42.7
+  },
+  {
+   "basket_size": 31.8
+  },
+  {
+   "basket_size": 73.5
+  },
+  {
+   "basket_size": 44.7
+  },
+  {
+   "basket_size": 30.4
+  },
+  {
+   "basket_size": 38.9
+  },
+  {
+   "basket_size": 29.2
+  },
+  {
+   "basket_size": 29.3
+  },
+  {
+   "basket_size": 23.1
+  },
+  {
+   "basket_size": 48.4
+  },
+  {
+   "basket_size": 26.7
+  },
+  {
+   "basket_size": 28.5
+  },
+  {
+   "basket_size": 25.9
+  },
+  {
+   "basket_size": 43.6
+  },
+  {
+   "basket_size": 78.2
+  },
+  {
+   "basket_size": 34.6
+  },
+  {
+   "basket_size": 40.7
+  },
+  {
+   "basket_size": 26.3
+  },
+  {
+   "basket_size": 21.5
+  },
+  {
+   "basket_size": 70.2
+  },
+  {
+   "basket_size": 36.6
+  },
+  {
+   "basket_size": 35.5
+  },
+  {
+   "basket_size": 41.2
+  },
+  {
+   "basket_size": 32.7
+  },
+  {
+   "basket_size": 49.2
+  },
+  {
+   "basket_size": 18.7
+  },
+  {
+   "basket_size": 92.8
+  },
+  {
+   "basket_size": 51.6
+  },
+  {
+   "basket_size": 35.0
+  },
+  {
+   "basket_size": 40.3
+  },
+  {
+   "basket_size": 28.4
+  },
+  {
+   "basket_size": 54.3
+  },
+  {
+   "basket_size": 27.2
+  },
+  {
+   "basket_size": 33.7
+  },
+  {
+   "basket_size": 30.2
+  },
+  {
+   "basket_size": 59.0
+  },
+  {
+   "basket_size": 31.5
+  },
+  {
+   "basket_size": 37.9
+  },
+  {
+   "basket_size": 37.1
+  },
+  {
+   "basket_size": 40.9
+  },
+  {
+   "basket_size": 49.7
+  },
+  {
+   "basket_size": 64.0
+  },
+  {
+   "basket_size": 37.5
+  },
+  {
+   "basket_size": 45.1
+  },
+  {
+   "basket_size": 44.9
+  },
+  {
+   "basket_size": 61.3
+  },
+  {
+   "basket_size": 24.1
+  },
+  {
+   "basket_size": 34.1
+  },
+  {
+   "basket_size": 33.2
+  },
+  {
+   "basket_size": 45.1
+  },
+  {
+   "basket_size": 29.7
+  },
+  {
+   "basket_size": 37.5
+  },
+  {
+   "basket_size": 51.4
+  },
+  {
+   "basket_size": 29.2
+  },
+  {
+   "basket_size": 99.2
+  },
+  {
+   "basket_size": 43.5
+  },
+  {
+   "basket_size": 38.7
+  },
+  {
+   "basket_size": 59.9
+  },
+  {
+   "basket_size": 61.9
+  },
+  {
+   "basket_size": 55.0
+  },
+  {
+   "basket_size": 26.8
+  },
+  {
+   "basket_size": 18.8
+  },
+  {
+   "basket_size": 28.3
+  },
+  {
+   "basket_size": 27.3
+  },
+  {
+   "basket_size": 45.2
+  },
+  {
+   "basket_size": 28.5
+  },
+  {
+   "basket_size": 35.7
+  },
+  {
+   "basket_size": 48.3
+  },
+  {
+   "basket_size": 45.9
+  },
+  {
+   "basket_size": 68.0
+  },
+  {
+   "basket_size": 30.2
+  },
+  {
+   "basket_size": 26.6
+  },
+  {
+   "basket_size": 48.9
+  },
+  {
+   "basket_size": 46.6
+  },
+  {
+   "basket_size": 72.6
+  },
+  {
+   "basket_size": 65.5
+  },
+  {
+   "basket_size": 48.9
+  },
+  {
+   "basket_size": 48.5
+  },
+  {
+   "basket_size": 49.2
+  },
+  {
+   "basket_size": 66.0
+  },
+  {
+   "basket_size": 29.6
+  },
+  {
+   "basket_size": 22.5
+  },
+  {
+   "basket_size": 20.7
+  },
+  {
+   "basket_size": 22.7
+  },
+  {
+   "basket_size": 36.5
+  },
+  {
+   "basket_size": 56.8
+  },
+  {
+   "basket_size": 41.6
+  },
+  {
+   "basket_size": 53.2
+  },
+  {
+   "basket_size": 8.9
+  },
+  {
+   "basket_size": 16.4
+  },
+  {
+   "basket_size": 40.3
+  },
+  {
+   "basket_size": 46.4
+  },
+  {
+   "basket_size": 57.0
+  },
+  {
+   "basket_size": 71.9
+  },
+  {
+   "basket_size": 33.0
+  },
+  {
+   "basket_size": 41.7
+  },
+  {
+   "basket_size": 54.1
+  },
+  {
+   "basket_size": 35.3
+  },
+  {
+   "basket_size": 46.3
+  },
+  {
+   "basket_size": 33.9
+  },
+  {
+   "basket_size": 45.3
+  },
+  {
+   "basket_size": 16.0
+  },
+  {
+   "basket_size": 32.0
+  },
+  {
+   "basket_size": 26.6
+  },
+  {
+   "basket_size": 49.4
+  },
+  {
+   "basket_size": 30.6
+  },
+  {
+   "basket_size": 43.1
+  },
+  {
+   "basket_size": 37.8
+  },
+  {
+   "basket_size": 45.5
+  },
+  {
+   "basket_size": 44.7
+  },
+  {
+   "basket_size": 48.7
+  },
+  {
+   "basket_size": 45.0
+  },
+  {
+   "basket_size": 20.2
+  },
+  {
+   "basket_size": 32.4
+  },
+  {
+   "basket_size": 26.2
+  },
+  {
+   "basket_size": 83.5
+  },
+  {
+   "basket_size": 22.0
+  },
+  {
+   "basket_size": 57.3
+  },
+  {
+   "basket_size": 28.8
+  },
+  {
+   "basket_size": 33.8
+  },
+  {
+   "basket_size": 32.0
+  },
+  {
+   "basket_size": 38.4
+  },
+  {
+   "basket_size": 69.1
+  },
+  {
+   "basket_size": 35.3
+  },
+  {
+   "basket_size": 30.3
+  },
+  {
+   "basket_size": 35.6
+  },
+  {
+   "basket_size": 17.0
+  },
+  {
+   "basket_size": 29.0
+  },
+  {
+   "basket_size": 42.2
+  },
+  {
+   "basket_size": 49.0
+  },
+  {
+   "basket_size": 18.8
+  },
+  {
+   "basket_size": 70.6
+  },
+  {
+   "basket_size": 90.2
+  },
+  {
+   "basket_size": 17.0
+  },
+  {
+   "basket_size": 47.8
+  },
+  {
+   "basket_size": 54.5
+  },
+  {
+   "basket_size": 64.5
+  },
+  {
+   "basket_size": 24.1
+  },
+  {
+   "basket_size": 44.2
+  },
+  {
+   "basket_size": 59.3
+  },
+  {
+   "basket_size": 22.7
+  },
+  {
+   "basket_size": 40.1
+  },
+  {
+   "basket_size": 42.2
+  },
+  {
+   "basket_size": 50.4
+  },
+  {
+   "basket_size": 47.9
+  },
+  {
+   "basket_size": 33.4
+  },
+  {
+   "basket_size": 57.4
+  },
+  {
+   "basket_size": 31.4
+  },
+  {
+   "basket_size": 51.2
+  },
+  {
+   "basket_size": 64.7
+  },
+  {
+   "basket_size": 29.1
+  },
+  {
+   "basket_size": 56.1
+  },
+  {
+   "basket_size": 50.3
+  },
+  {
+   "basket_size": 27.6
+  },
+  {
+   "basket_size": 50.6
+  },
+  {
+   "basket_size": 65.9
+  },
+  {
+   "basket_size": 12.9
+  },
+  {
+   "basket_size": 71.4
+  },
+  {
+   "basket_size": 56.5
+  },
+  {
+   "basket_size": 19.3
+  },
+  {
+   "basket_size": 47.2
+  },
+  {
+   "basket_size": 23.0
+  },
+  {
+   "basket_size": 46.0
+  },
+  {
+   "basket_size": 27.9
+  },
+  {
+   "basket_size": 83.7
+  },
+  {
+   "basket_size": 35.5
+  },
+  {
+   "basket_size": 92.1
+  },
+  {
+   "basket_size": 23.7
+  },
+  {
+   "basket_size": 37.7
+  },
+  {
+   "basket_size": 39.5
+  },
+  {
+   "basket_size": 28.3
+  },
+  {
+   "basket_size": 45.4
+  },
+  {
+   "basket_size": 39.4
+  },
+  {
+   "basket_size": 37.1
+  },
+  {
+   "basket_size": 33.2
+  },
+  {
+   "basket_size": 56.2
+  },
+  {
+   "basket_size": 20.4
+  },
+  {
+   "basket_size": 29.3
+  },
+  {
+   "basket_size": 35.8
+  },
+  {
+   "basket_size": 17.4
+  },
+  {
+   "basket_size": 14.2
+  },
+  {
+   "basket_size": 100.7
+  },
+  {
+   "basket_size": 56.1
+  },
+  {
+   "basket_size": 18.2
+  },
+  {
+   "basket_size": 58.5
+  },
+  {
+   "basket_size": 17.4
+  },
+  {
+   "basket_size": 33.8
+  },
+  {
+   "basket_size": 55.9
+  },
+  {
+   "basket_size": 41.4
+  },
+  {
+   "basket_size": 32.0
+  },
+  {
+   "basket_size": 23.9
+  },
+  {
+   "basket_size": 12.9
+  },
+  {
+   "basket_size": 55.0
+  },
+  {
+   "basket_size": 26.1
+  },
+  {
+   "basket_size": 44.6
+  },
+  {
+   "basket_size": 31.1
+  },
+  {
+   "basket_size": 22.3
+  },
+  {
+   "basket_size": 27.1
+  },
+  {
+   "basket_size": 17.1
+  },
+  {
+   "basket_size": 53.3
+  },
+  {
+   "basket_size": 49.9
+  },
+  {
+   "basket_size": 35.2
+  },
+  {
+   "basket_size": 43.0
+  },
+  {
+   "basket_size": 19.7
+  },
+  {
+   "basket_size": 35.1
+  },
+  {
+   "basket_size": 26.7
+  },
+  {
+   "basket_size": 38.2
+  },
+  {
+   "basket_size": 51.8
+  },
+  {
+   "basket_size": 34.1
+  },
+  {
+   "basket_size": 13.7
+  },
+  {
+   "basket_size": 31.9
+  },
+  {
+   "basket_size": 36.3
+  },
+  {
+   "basket_size": 82.9
+  },
+  {
+   "basket_size": 25.0
+  },
+  {
+   "basket_size": 30.0
+  },
+  {
+   "basket_size": 26.5
+  },
+  {
+   "basket_size": 32.2
+  },
+  {
+   "basket_size": 37.4
+  },
+  {
+   "basket_size": 22.1
+  },
+  {
+   "basket_size": 23.3
+  },
+  {
+   "basket_size": 27.0
+  },
+  {
+   "basket_size": 69.7
+  },
+  {
+   "basket_size": 29.2
+  },
+  {
+   "basket_size": 17.8
+  },
+  {
+   "basket_size": 36.4
+  },
+  {
+   "basket_size": 21.7
+  },
+  {
+   "basket_size": 78.0
+  },
+  {
+   "basket_size": 39.3
+  },
+  {
+   "basket_size": 29.2
+  },
+  {
+   "basket_size": 17.9
+  },
+  {
+   "basket_size": 59.9
+  },
+  {
+   "basket_size": 32.3
+  },
+  {
+   "basket_size": 30.1
+  },
+  {
+   "basket_size": 52.4
+  },
+  {
+   "basket_size": 25.4
+  },
+  {
+   "basket_size": 37.5
+  },
+  {
+   "basket_size": 37.0
+  },
+  {
+   "basket_size": 81.7
+  },
+  {
+   "basket_size": 52.9
+  },
+  {
+   "basket_size": 46.3
+  },
+  {
+   "basket_size": 44.0
+  },
+  {
+   "basket_size": 36.3
+  },
+  {
+   "basket_size": 38.3
+  },
+  {
+   "basket_size": 29.0
+  },
+  {
+   "basket_size": 25.4
+  },
+  {
+   "basket_size": 43.0
+  },
+  {
+   "basket_size": 38.6
+  },
+  {
+   "basket_size": 42.8
+  },
+  {
+   "basket_size": 22.0
+  },
+  {
+   "basket_size": 36.6
+  },
+  {
+   "basket_size": 23.7
+  },
+  {
+   "basket_size": 19.9
+  },
+  {
+   "basket_size": 48.9
+  },
+  {
+   "basket_size": 44.6
+  },
+  {
+   "basket_size": 59.8
+  },
+  {
+   "basket_size": 26.0
+  },
+  {
+   "basket_size": 37.7
+  },
+  {
+   "basket_size": 31.6
+  },
+  {
+   "basket_size": 29.9
+  },
+  {
+   "basket_size": 48.6
+  },
+  {
+   "basket_size": 54.4
+  },
+  {
+   "basket_size": 31.6
+  },
+  {
+   "basket_size": 30.0
+  },
+  {
+   "basket_size": 21.7
+  },
+  {
+   "basket_size": 36.7
+  },
+  {
+   "basket_size": 59.1
+  },
+  {
+   "basket_size": 22.2
+  },
+  {
+   "basket_size": 26.1
+  },
+  {
+   "basket_size": 79.0
+  },
+  {
+   "basket_size": 25.6
+  },
+  {
+   "basket_size": 14.5
+  },
+  {
+   "basket_size": 29.7
+  },
+  {
+   "basket_size": 41.1
+  },
+  {
+   "basket_size": 37.1
+  },
+  {
+   "basket_size": 34.8
+  },
+  {
+   "basket_size": 27.8
+  },
+  {
+   "basket_size": 25.6
+  },
+  {
+   "basket_size": 33.4
+  },
+  {
+   "basket_size": 30.2
+  },
+  {
+   "basket_size": 44.6
+  },
+  {
+   "basket_size": 43.6
+  },
+  {
+   "basket_size": 41.6
+  },
+  {
+   "basket_size": 47.8
+  },
+  {
+   "basket_size": 39.8
+  },
+  {
+   "basket_size": 35.5
+  },
+  {
+   "basket_size": 29.2
+  },
+  {
+   "basket_size": 37.1
+  },
+  {
+   "basket_size": 38.8
+  },
+  {
+   "basket_size": 17.6
+  },
+  {
+   "basket_size": 24.4
+  },
+  {
+   "basket_size": 36.3
+  },
+  {
+   "basket_size": 45.7
+  },
+  {
+   "basket_size": 35.0
+  },
+  {
+   "basket_size": 31.9
+  },
+  {
+   "basket_size": 43.9
+  },
+  {
+   "basket_size": 44.4
+  },
+  {
+   "basket_size": 30.8
+  },
+  {
+   "basket_size": 50.1
+  },
+  {
+   "basket_size": 38.3
+  },
+  {
+   "basket_size": 73.3
+  },
+  {
+   "basket_size": 33.8
+  },
+  {
+   "basket_size": 41.2
+  },
+  {
+   "basket_size": 28.2
+  },
+  {
+   "basket_size": 70.2
+  },
+  {
+   "basket_size": 31.5
+  },
+  {
+   "basket_size": 33.0
+  },
+  {
+   "basket_size": 29.0
+  },
+  {
+   "basket_size": 38.9
+  },
+  {
+   "basket_size": 20.6
+  },
+  {
+   "basket_size": 59.1
+  },
+  {
+   "basket_size": 34.9
+  },
+  {
+   "basket_size": 31.3
+  },
+  {
+   "basket_size": 41.4
+  },
+  {
+   "basket_size": 16.9
+  },
+  {
+   "basket_size": 25.7
+  },
+  {
+   "basket_size": 17.9
+  },
+  {
+   "basket_size": 35.8
+  },
+  {
+   "basket_size": 55.0
+  },
+  {
+   "basket_size": 38.0
+  },
+  {
+   "basket_size": 32.5
+  },
+  {
+   "basket_size": 40.5
+  },
+  {
+   "basket_size": 37.3
+  },
+  {
+   "basket_size": 31.7
+  },
+  {
+   "basket_size": 40.4
+  },
+  {
+   "basket_size": 36.0
+  },
+  {
+   "basket_size": 29.1
+  },
+  {
+   "basket_size": 47.5
+  },
+  {
+   "basket_size": 57.9
+  },
+  {
+   "basket_size": 75.7
+  },
+  {
+   "basket_size": 34.3
+  },
+  {
+   "basket_size": 27.2
+  },
+  {
+   "basket_size": 36.7
+  },
+  {
+   "basket_size": 20.3
+  },
+  {
+   "basket_size": 40.8
+  },
+  {
+   "basket_size": 21.5
+  },
+  {
+   "basket_size": 48.7
+  },
+  {
+   "basket_size": 15.6
+  },
+  {
+   "basket_size": 43.7
+  },
+  {
+   "basket_size": 24.2
+  },
+  {
+   "basket_size": 38.5
+  },
+  {
+   "basket_size": 45.4
+  },
+  {
+   "basket_size": 34.1
+  },
+  {
+   "basket_size": 22.8
+  },
+  {
+   "basket_size": 64.9
+  },
+  {
+   "basket_size": 23.9
+  },
+  {
+   "basket_size": 32.4
+  },
+  {
+   "basket_size": 30.6
+  },
+  {
+   "basket_size": 71.1
+  },
+  {
+   "basket_size": 30.3
+  },
+  {
+   "basket_size": 33.7
+  },
+  {
+   "basket_size": 69.6
+  },
+  {
+   "basket_size": 64.3
+  },
+  {
+   "basket_size": 40.8
+  },
+  {
+   "basket_size": 52.2
+  },
+  {
+   "basket_size": 26.1
+  },
+  {
+   "basket_size": 68.4
+  },
+  {
+   "basket_size": 55.0
+  },
+  {
+   "basket_size": 28.0
+  },
+  {
+   "basket_size": 27.8
+  },
+  {
+   "basket_size": 60.3
+  },
+  {
+   "basket_size": 47.7
+  },
+  {
+   "basket_size": 25.8
+  },
+  {
+   "basket_size": 26.4
+  },
+  {
+   "basket_size": 20.8
+  },
+  {
+   "basket_size": 32.1
+  },
+  {
+   "basket_size": 51.7
+  },
+  {
+   "basket_size": 29.5
+  },
+  {
+   "basket_size": 30.1
+  },
+  {
+   "basket_size": 32.2
+  },
+  {
+   "basket_size": 42.8
+  },
+  {
+   "basket_size": 14.0
+  },
+  {
+   "basket_size": 23.1
+  },
+  {
+   "basket_size": 25.5
+  },
+  {
+   "basket_size": 46.8
+  },
+  {
+   "basket_size": 68.4
+  },
+  {
+   "basket_size": 26.0
+  },
+  {
+   "basket_size": 15.4
+  },
+  {
+   "basket_size": 40.2
+  },
+  {
+   "basket_size": 23.5
+  },
+  {
+   "basket_size": 21.5
+  },
+  {
+   "basket_size": 38.1
+  },
+  {
+   "basket_size": 49.6
+  },
+  {
+   "basket_size": 47.0
+  },
+  {
+   "basket_size": 29.6
+  },
+  {
+   "basket_size": 25.9
+  },
+  {
+   "basket_size": 52.2
+  },
+  {
+   "basket_size": 41.5
+  },
+  {
+   "basket_size": 39.1
+  },
+  {
+   "basket_size": 36.6
+  },
+  {
+   "basket_size": 23.7
+  },
+  {
+   "basket_size": 29.5
+  },
+  {
+   "basket_size": 45.0
+  },
+  {
+   "basket_size": 17.7
+  },
+  {
+   "basket_size": 48.7
+  },
+  {
+   "basket_size": 52.8
+  },
+  {
+   "basket_size": 30.8
+  },
+  {
+   "basket_size": 52.6
+  },
+  {
+   "basket_size": 27.8
+  },
+  {
+   "basket_size": 28.6
+  },
+  {
+   "basket_size": 42.6
+  },
+  {
+   "basket_size": 27.2
+  },
+  {
+   "basket_size": 33.6
+  },
+  {
+   "basket_size": 25.6
+  },
+  {
+   "basket_size": 43.4
+  },
+  {
+   "basket_size": 27.2
+  },
+  {
+   "basket_size": 44.4
+  },
+  {
+   "basket_size": 47.7
+  },
+  {
+   "basket_size": 39.5
+  },
+  {
+   "basket_size": 30.0
+  },
+  {
+   "basket_size": 47.1
+  },
+  {
+   "basket_size": 27.4
+  },
+  {
+   "basket_size": 50.1
+  },
+  {
+   "basket_size": 17.3
+  },
+  {
+   "basket_size": 60.5
+  },
+  {
+   "basket_size": 67.3
+  },
+  {
+   "basket_size": 35.4
+  },
+  {
+   "basket_size": 46.4
+  },
+  {
+   "basket_size": 41.0
+  },
+  {
+   "basket_size": 48.6
+  },
+  {
+   "basket_size": 103.7
+  },
+  {
+   "basket_size": 45.0
+  },
+  {
+   "basket_size": 30.5
+  },
+  {
+   "basket_size": 31.0
+  },
+  {
+   "basket_size": 27.2
+  },
+  {
+   "basket_size": 15.6
+  },
+  {
+   "basket_size": 42.7
+  },
+  {
+   "basket_size": 25.4
+  },
+  {
+   "basket_size": 20.3
+  },
+  {
+   "basket_size": 31.6
+  },
+  {
+   "basket_size": 49.8
+  },
+  {
+   "basket_size": 39.1
+  },
+  {
+   "basket_size": 59.1
+  },
+  {
+   "basket_size": 45.4
+  },
+  {
+   "basket_size": 48.7
+  },
+  {
+   "basket_size": 32.7
+  },
+  {
+   "basket_size": 47.3
+  },
+  {
+   "basket_size": 29.2
+  },
+  {
+   "basket_size": 30.3
+  },
+  {
+   "basket_size": 47.0
+  },
+  {
+   "basket_size": 24.7
+  },
+  {
+   "basket_size": 35.4
+  },
+  {
+   "basket_size": 44.2
+  },
+  {
+   "basket_size": 38.4
+  },
+  {
+   "basket_size": 36.1
+  },
+  {
+   "basket_size": 23.0
+  },
+  {
+   "basket_size": 47.8
+  },
+  {
+   "basket_size": 29.2
+  },
+  {
+   "basket_size": 30.8
+  },
+  {
+   "basket_size": 67.6
+  },
+  {
+   "basket_size": 46.9
+  },
+  {
+   "basket_size": 30.1
+  },
+  {
+   "basket_size": 38.7
+  },
+  {
+   "basket_size": 49.4
+  },
+  {
+   "basket_size": 17.7
+  },
+  {
+   "basket_size": 59.6
+  },
+  {
+   "basket_size": 66.9
+  },
+  {
+   "basket_size": 36.6
+  },
+  {
+   "basket_size": 26.4
+  },
+  {
+   "basket_size": 24.2
+  },
+  {
+   "basket_size": 20.8
+  },
+  {
+   "basket_size": 17.0
+  },
+  {
+   "basket_size": 34.1
+  },
+  {
+   "basket_size": 46.0
+  },
+  {
+   "basket_size": 33.7
+  },
+  {
+   "basket_size": 32.3
+  },
+  {
+   "basket_size": 26.4
+  },
+  {
+   "basket_size": 33.5
+  },
+  {
+   "basket_size": 32.2
+  },
+  {
+   "basket_size": 24.0
+  },
+  {
+   "basket_size": 14.2
+  },
+  {
+   "basket_size": 56.6
+  },
+  {
+   "basket_size": 40.7
+  },
+  {
+   "basket_size": 103.0
+  },
+  {
+   "basket_size": 35.3
+  },
+  {
+   "basket_size": 29.7
+  },
+  {
+   "basket_size": 18.8
+  },
+  {
+   "basket_size": 35.2
+  },
+  {
+   "basket_size": 43.6
+  },
+  {
+   "basket_size": 40.2
+  },
+  {
+   "basket_size": 38.4
+  },
+  {
+   "basket_size": 33.8
+  },
+  {
+   "basket_size": 38.0
+  },
+  {
+   "basket_size": 51.1
+  },
+  {
+   "basket_size": 20.2
+  },
+  {
+   "basket_size": 26.2
+  },
+  {
+   "basket_size": 38.4
+  },
+  {
+   "basket_size": 38.7
+  },
+  {
+   "basket_size": 37.4
+  },
+  {
+   "basket_size": 22.5
+  },
+  {
+   "basket_size": 21.7
+  },
+  {
+   "basket_size": 63.7
+  },
+  {
+   "basket_size": 67.1
+  },
+  {
+   "basket_size": 43.4
+  },
+  {
+   "basket_size": 53.1
+  }
+ ]
+}

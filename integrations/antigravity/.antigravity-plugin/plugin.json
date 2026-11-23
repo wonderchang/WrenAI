@@ -1,0 +1,14 @@
+{
+  "name": "wren-ai",
+  "displayName": "Wren AI",
+  "version": "0.1.0",
+  "description": "Governed semantic SQL for your data: Wren AI's semantic layer, business rules and knowledge exposed to Antigravity over MCP.",
+  "author": {
+    "name": "Canner, Inc.",
+    "url": "https://getwren.ai"
+  },
+  "homepage": "https://getwren.ai",
+  "repository": "https://github.com/Canner/WrenAI",
+  "license": "Apache-2.0",
+  "logo": "assets/logo.svg"
+}

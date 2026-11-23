@@ -1,0 +1,187 @@
+{
+ "chart": "table",
+ "title": "Top customers",
+ "sql": "\u2026",
+ "rows": [
+  {
+   "customer": "C-100",
+   "orders": 28,
+   "revenue": 14371.79,
+   "last_order": "2026-11-10"
+  },
+  {
+   "customer": "C-101",
+   "orders": 90,
+   "revenue": 34893.07,
+   "last_order": "2026-11-05"
+  },
+  {
+   "customer": "C-102",
+   "orders": 80,
+   "revenue": 78910.9,
+   "last_order": "2026-11-18"
+  },
+  {
+   "customer": "C-103",
+   "orders": 39,
+   "revenue": 85440.22,
+   "last_order": "2026-11-01"
+  },
+  {
+   "customer": "C-104",
+   "orders": 8,
+   "revenue": 31470.75,
+   "last_order": "2026-11-05"
+  },
+  {
+   "customer": "C-105",
+   "orders": 67,
+   "revenue": 45657.96,
+   "last_order": "2026-11-02"
+  },
+  {
+   "customer": "C-106",
+   "orders": 9,
+   "revenue": 7639.75,
+   "last_order": "2026-11-20"
+  },
+  {
+   "customer": "C-107",
+   "orders": 87,
+   "revenue": 61476.59,
+   "last_order": "2026-11-13"
+  },
+  {
+   "customer": "C-108",
+   "orders": 65,
+   "revenue": 87110.11,
+   "last_order": "2026-11-15"
+  },
+  {
+   "customer": "C-109",
+   "orders": 55,
+   "revenue": 21399.6,
+   "last_order": "2026-11-20"
+  },
+  {
+   "customer": "C-110",
+   "orders": 71,
+   "revenue": 7753.64,
+   "last_order": "2026-11-11"
+  },
+  {
+   "customer": "C-111",
+   "orders": 72,
+   "revenue": 20251.98,
+   "last_order": "2026-11-05"
+  },
+  {
+   "customer": "C-112",
+   "orders": 80,
+   "revenue": 56591.1,
+   "last_order": "2026-11-07"
+  },
+  {
+   "customer": "C-113",
+   "orders": 26,
+   "revenue": 73907.01,
+   "last_order": "2026-11-15"
+  },
+  {
+   "customer": "C-114",
+   "orders": 47,
+   "revenue": 52356.78,
+   "last_order": "2026-11-13"
+  },
+  {
+   "customer": "C-115",
+   "orders": 50,
+   "revenue": 28978.02,
+   "last_order": "2026-11-11"
+  },
+  {
+   "customer": "C-116",
+   "orders": 79,
+   "revenue": 44025.96,
+   "last_order": "2026-11-08"
+  },
+  {
+   "customer": "C-117",
+   "orders": 7,
+   "revenue": 23137.85,
+   "last_order": "2026-11-20"
+  },
+  {
+   "customer": "C-118",
+   "orders": 10,
+   "revenue": 57147.83,
+   "last_order": "2026-11-05"
+  },
+  {
+   "customer": "C-119",
+   "orders": 39,
+   "revenue": 35214.37,
+   "last_order": "2026-11-03"
+  },
+  {
+   "customer": "C-120",
+   "orders": 69,
+   "revenue": 89231.0,
+   "last_order": "2026-11-12"
+  },
+  {
+   "customer": "C-121",
+   "orders": 77,
+   "revenue": 52043.88,
+   "last_order": "2026-11-19"
+  },
+  {
+   "customer": "C-122",
+   "orders": 22,
+   "revenue": 89304.25,
+   "last_order": "2026-11-02"
+  },
+  {
+   "customer": "C-123",
+   "orders": 76,
+   "revenue": 81334.92,
+   "last_order": "2026-11-04"
+  },
+  {
+   "customer": "C-124",
+   "orders": 30,
+   "revenue": 69912.56,
+   "last_order": "2026-11-19"
+  },
+  {
+   "customer": "C-125",
+   "orders": 86,
+   "revenue": 9810.34,
+   "last_order": "2026-11-10"
+  },
+  {
+   "customer": "C-126",
+   "orders": 35,
+   "revenue": 78680.4,
+   "last_order": "2026-11-05"
+  },
+  {
+   "customer": "C-127",
+   "orders": 14,
+   "revenue": 28055.64,
+   "last_order": "2026-11-11"
+  },
+  {
+   "customer": "C-128",
+   "orders": 51,
+   "revenue": 46292.73,
+   "last_order": "2026-11-08"
+  },
+  {
+   "customer": "C-129",
+   "orders": 49,
+   "revenue": 78684.71,
+   "last_order": "2026-11-13"
+  }
+ ]
+}

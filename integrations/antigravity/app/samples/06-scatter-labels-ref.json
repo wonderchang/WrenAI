@@ -1,0 +1,105 @@
+{
+ "chart": "scatter",
+ "x": "lon_offset",
+ "y": "lat_offset",
+ "color": "status",
+ "label": "n",
+ "equal_aspect": true,
+ "reference": [
+  {
+   "x0": -0.8,
+   "x1": 0.8,
+   "y0": -0.6,
+   "y1": 1.0,
+   "label": "service area"
+  }
+ ],
+ "title": "Deliveries around the depot",
+ "sql": "\u2026",
+ "rows": [
+  {
+   "n": 1,
+   "lon_offset": -0.08,
+   "lat_offset": -0.56,
+   "status": "Late"
+  },
+  {
+   "n": 2,
+   "lon_offset": -0.45,
+   "lat_offset": 0.16,
+   "status": "Lost"
+  },
+  {
+   "n": 3,
+   "lon_offset": 0.87,
+   "lat_offset": 0.89,
+   "status": "Lost"
+  },
+  {
+   "n": 4,
+   "lon_offset": -0.42,
+   "lat_offset": -0.43,
+   "status": "Lost"
+  },
+  {
+   "n": 5,
+   "lon_offset": 0.51,
+   "lat_offset": 0.1,
+   "status": "Late"
+  },
+  {
+   "n": 6,
+   "lon_offset": 0.55,
+   "lat_offset": 0.14,
+   "status": "Pending"
+  },
+  {
+   "n": 7,
+   "lon_offset": -0.04,
+   "lat_offset": -0.13,
+   "status": "Returned"
+  },
+  {
+   "n": 8,
+   "lon_offset": 1.14,
+   "lat_offset": 0.07,
+   "status": "Delivered"
+  },
+  {
+   "n": 9,
+   "lon_offset": 0.89,
+   "lat_offset": 0.62,
+   "status": "Returned"
+  },
+  {
+   "n": 10,
+   "lon_offset": -0.18,
+   "lat_offset": 0.29,
+   "status": "Pending"
+  },
+  {
+   "n": 11,
+   "lon_offset": 0.66,
+   "lat_offset": -0.82,
+   "status": "Pending"
+  },
+  {
+   "n": 12,
+   "lon_offset": 0.8,
+   "lat_offset": 0.05,
+   "status": "Pending"
+  },
+  {
+   "n": 13,
+   "lon_offset": -0.18,
+   "lat_offset": 0.84,
+   "status": "Late"
+  },
+  {
+   "n": 14,
+   "lon_offset": -0.01,
+   "lat_offset": 0.25,
+   "status": "Returned"
+  }
+ ]
+}

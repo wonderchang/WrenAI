@@ -1,0 +1,5 @@
+{"title":"Sample: strike zone","sql":"SELECT ...","rows":[{"n":1,"result":"Ball","plate_x":-1.1,"plate_z":2.0,"sz_bot":1.6,"sz_top":3.4},{"n":2,"result":"Whiff","plate_x":0.2,"plate_z":2.5,"sz_bot":1.6,"sz_top":3.4},{"n":3,"result":"Called strike","plate_x":0.6,"plate_z":3.1,"sz_bot":1.6,"sz_top":3.4}],
+ "spec":{"width":360,"height":420,"layer":[
+  {"mark":{"type":"rect","fill":null,"stroke":"gray"},"encoding":{"x":{"datum":-0.83,"type":"quantitative"},"x2":{"datum":0.83},"y":{"aggregate":"mean","field":"sz_bot"},"y2":{"aggregate":"mean","field":"sz_top"}}},
+  {"mark":{"type":"circle","size":300},"encoding":{"x":{"field":"plate_x","type":"quantitative","scale":{"domain":[-2,2]}},"y":{"field":"plate_z","type":"quantitative","scale":{"domain":[0,5]}},"color":{"field":"result","type":"nominal"}}},
+  {"mark":{"type":"text","color":"white","fontWeight":"bold"},"encoding":{"x":{"field":"plate_x","type":"quantitative"},"y":{"field":"plate_z","type":"quantitative"},"text":{"field":"n"}}}]}}

@@ -1,0 +1,90 @@
+{
+ "chart": "bar",
+ "x": "quarter",
+ "y": "revenue",
+ "series": "region",
+ "title": "Revenue by quarter and region",
+ "sql": "SELECT region, quarter, sum(amount) AS revenue FROM orders GROUP BY 1, 2",
+ "rows": [
+  {
+   "region": "North",
+   "quarter": "Q1",
+   "revenue": 131.8
+  },
+  {
+   "region": "North",
+   "quarter": "Q2",
+   "revenue": 104.1
+  },
+  {
+   "region": "North",
+   "quarter": "Q3",
+   "revenue": 184.1
+  },
+  {
+   "region": "North",
+   "quarter": "Q4",
+   "revenue": 91.6
+  },
+  {
+   "region": "South",
+   "quarter": "Q1",
+   "revenue": 165.7
+  },
+  {
+   "region": "South",
+   "quarter": "Q2",
+   "revenue": 138.5
+  },
+  {
+   "region": "South",
+   "quarter": "Q3",
+   "revenue": 89.3
+  },
+  {
+   "region": "South",
+   "quarter": "Q4",
+   "revenue": 161.2
+  },
+  {
+   "region": "East",
+   "quarter": "Q1",
+   "revenue": 86.0
+  },
+  {
+   "region": "East",
+   "quarter": "Q2",
+   "revenue": 149.4
+  },
+  {
+   "region": "East",
+   "quarter": "Q3",
+   "revenue": 91.2
+  },
+  {
+   "region": "East",
+   "quarter": "Q4",
+   "revenue": 94.5
+  },
+  {
+   "region": "West",
+   "quarter": "Q1",
+   "revenue": 147.9
+  },
+  {
+   "region": "West",
+   "quarter": "Q2",
+   "revenue": 212.3
+  },
+  {
+   "region": "West",
+   "quarter": "Q3",
+   "revenue": 99.8
+  },
+  {
+   "region": "West",
+   "quarter": "Q4",
+   "revenue": 115.7
+  }
+ ]
+}
