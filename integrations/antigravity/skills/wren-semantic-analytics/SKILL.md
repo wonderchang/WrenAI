@@ -27,7 +27,9 @@ description: Answer data questions through the Wren AI MCP server (semantic laye
    - `show_vega`: you write a Vega-Lite v6 spec for anything `visualize`
      cannot express (extra layers, reference grids, facets, custom
      transforms). Do not put data or colors in it; refer to result columns by
-     name and use `scale.domain` to order categories. If it returns a schema
-     error, fix the named property and call it again.
+     name and use `scale.domain` to order categories. Keep data marks
+     opaque (opacity 0.7 or more) so their colors stay readable in dark mode,
+     and place text labels so they do not overlap marks or each other. If it
+     returns a schema error, fix the named property and call it again.
    Check `get_instructions` for chart recipes the organization has defined.
    The chart renders inline; keep your text answer short and refer to it.
