@@ -1,0 +1,196 @@
+{
+ "chart": "line",
+ "x": "month",
+ "y": "orders",
+ "series": "region",
+ "title": "Monthly orders",
+ "sql": "\u2026",
+ "rows": [
+  {
+   "month": "2026-01",
+   "region": "North",
+   "orders": 103
+  },
+  {
+   "month": "2026-02",
+   "region": "North",
+   "orders": 99
+  },
+  {
+   "month": "2026-03",
+   "region": "North",
+   "orders": 100
+  },
+  {
+   "month": "2026-04",
+   "region": "North",
+   "orders": 115
+  },
+  {
+   "month": "2026-05",
+   "region": "North",
+   "orders": 101
+  },
+  {
+   "month": "2026-06",
+   "region": "North",
+   "orders": 121
+  },
+  {
+   "month": "2026-07",
+   "region": "North",
+   "orders": 114
+  },
+  {
+   "month": "2026-08",
+   "region": "North",
+   "orders": 115
+  },
+  {
+   "month": "2026-09",
+   "region": "North",
+   "orders": 118
+  },
+  {
+   "month": "2026-10",
+   "region": "North",
+   "orders": 126
+  },
+  {
+   "month": "2026-11",
+   "region": "North",
+   "orders": 140
+  },
+  {
+   "month": "2026-12",
+   "region": "North",
+   "orders": 132
+  },
+  {
+   "month": "2026-01",
+   "region": "South",
+   "orders": 93
+  },
+  {
+   "month": "2026-02",
+   "region": "South",
+   "orders": 92
+  },
+  {
+   "month": "2026-03",
+   "region": "South",
+   "orders": 100
+  },
+  {
+   "month": "2026-04",
+   "region": "South",
+   "orders": 94
+  },
+  {
+   "month": "2026-05",
+   "region": "South",
+   "orders": 98
+  },
+  {
+   "month": "2026-06",
+   "region": "South",
+   "orders": 105
+  },
+  {
+   "month": "2026-07",
+   "region": "South",
+   "orders": 118
+  },
+  {
+   "month": "2026-08",
+   "region": "South",
+   "orders": 117
+  },
+  {
+   "month": "2026-09",
+   "region": "South",
+   "orders": 119
+  },
+  {
+   "month": "2026-10",
+   "region": "South",
+   "orders": 128
+  },
+  {
+   "month": "2026-11",
+   "region": "South",
+   "orders": 130
+  },
+  {
+   "month": "2026-12",
+   "region": "South",
+   "orders": 131
+  },
+  {
+   "month": "2026-01",
+   "region": "East",
+   "orders": 110
+  },
+  {
+   "month": "2026-02",
+   "region": "East",
+   "orders": 104
+  },
+  {
+   "month": "2026-03",
+   "region": "East",
+   "orders": 115
+  },
+  {
+   "month": "2026-04",
+   "region": "East",
+   "orders": 118
+  },
+  {
+   "month": "2026-05",
+   "region": "East",
+   "orders": 129
+  },
+  {
+   "month": "2026-06",
+   "region": "East",
+   "orders": 130
+  },
+  {
+   "month": "2026-07",
+   "region": "East",
+   "orders": 125
+  },
+  {
+   "month": "2026-08",
+   "region": "East",
+   "orders": 143
+  },
+  {
+   "month": "2026-09",
+   "region": "East",
+   "orders": 130
+  },
+  {
+   "month": "2026-10",
+   "region": "East",
+   "orders": 140
+  },
+  {
+   "month": "2026-11",
+   "region": "East",
+   "orders": 151
+  },
+  {
+   "month": "2026-12",
+   "region": "East",
+   "orders": 143
+  }
+ ],
+ "reference": [
+  {
+   "y0": 120,
+   "label": "target 120"
+  }
+ ]
+}

@@ -1,0 +1,2 @@
+{"title":"Sample: runs by team","sql":"SELECT team, runs FROM t","rows":[{"team":"A","runs":12},{"team":"B","runs":7},{"team":"C","runs":15}],
+ "spec":{"mark":"bar","encoding":{"x":{"field":"team","type":"nominal"},"y":{"field":"runs","type":"quantitative"},"tooltip":[{"field":"team"},{"field":"runs"}]}}}

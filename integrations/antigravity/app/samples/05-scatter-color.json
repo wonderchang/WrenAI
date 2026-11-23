@@ -1,0 +1,610 @@
+{
+ "chart": "scatter",
+ "x": "discount_pct",
+ "y": "margin_pct",
+ "color": "segment",
+ "title": "Discount vs margin by segment",
+ "sql": "\u2026",
+ "rows": [
+  {
+   "discount_pct": 14.7,
+   "margin_pct": 28.9,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 28.9,
+   "margin_pct": 18.0,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 22.9,
+   "margin_pct": 18.6,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 23.7,
+   "margin_pct": 13.6,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 10.2,
+   "margin_pct": 28.6,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 17.8,
+   "margin_pct": 28.3,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 23.9,
+   "margin_pct": 11.9,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 25.2,
+   "margin_pct": 14.9,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 14.2,
+   "margin_pct": 31.2,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 1.9,
+   "margin_pct": 41.5,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 21.0,
+   "margin_pct": 21.1,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 17.3,
+   "margin_pct": 27.7,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 24.7,
+   "margin_pct": 18.4,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 21.5,
+   "margin_pct": 15.9,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 10.4,
+   "margin_pct": 24.4,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 10.7,
+   "margin_pct": 27.8,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 3.5,
+   "margin_pct": 40.5,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 6.5,
+   "margin_pct": 31.9,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 3.9,
+   "margin_pct": 32.9,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 11.9,
+   "margin_pct": 26.2,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 2.4,
+   "margin_pct": 31.7,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 12.0,
+   "margin_pct": 28.7,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 26.5,
+   "margin_pct": 11.4,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 25.9,
+   "margin_pct": 18.1,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 21.2,
+   "margin_pct": 11.5,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 20.5,
+   "margin_pct": 22.9,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 28.7,
+   "margin_pct": 11.6,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 2.5,
+   "margin_pct": 30.0,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 7.0,
+   "margin_pct": 36.6,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 0.4,
+   "margin_pct": 38.5,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 5.5,
+   "margin_pct": 26.1,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 0.1,
+   "margin_pct": 36.4,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 16.0,
+   "margin_pct": 26.8,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 17.0,
+   "margin_pct": 22.9,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 20.7,
+   "margin_pct": 24.5,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 28.5,
+   "margin_pct": 17.3,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 20.3,
+   "margin_pct": 24.4,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 13.7,
+   "margin_pct": 29.0,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 23.9,
+   "margin_pct": 23.8,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 11.9,
+   "margin_pct": 31.9,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 3.1,
+   "margin_pct": 39.0,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 12.0,
+   "margin_pct": 20.9,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 2.0,
+   "margin_pct": 41.8,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 13.2,
+   "margin_pct": 33.4,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 10.2,
+   "margin_pct": 29.6,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 3.1,
+   "margin_pct": 35.3,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 4.5,
+   "margin_pct": 43.7,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 28.5,
+   "margin_pct": 7.3,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 0.8,
+   "margin_pct": 41.2,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 18.4,
+   "margin_pct": 33.1,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 19.0,
+   "margin_pct": 19.2,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 18.1,
+   "margin_pct": 26.5,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 3.7,
+   "margin_pct": 44.2,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 29.8,
+   "margin_pct": 12.7,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 14.4,
+   "margin_pct": 29.3,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 2.6,
+   "margin_pct": 41.3,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 22.5,
+   "margin_pct": 16.1,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 7.9,
+   "margin_pct": 32.5,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 4.8,
+   "margin_pct": 36.9,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 6.2,
+   "margin_pct": 37.7,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 10.9,
+   "margin_pct": 30.1,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 16.3,
+   "margin_pct": 24.5,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 22.7,
+   "margin_pct": 15.5,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 29.4,
+   "margin_pct": 12.1,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 20.9,
+   "margin_pct": 24.8,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 15.6,
+   "margin_pct": 26.4,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 10.7,
+   "margin_pct": 27.0,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 16.0,
+   "margin_pct": 22.2,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 9.9,
+   "margin_pct": 41.8,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 18.4,
+   "margin_pct": 28.0,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 24.2,
+   "margin_pct": 20.8,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 22.2,
+   "margin_pct": 9.6,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 6.0,
+   "margin_pct": 37.1,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 10.7,
+   "margin_pct": 32.3,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 29.7,
+   "margin_pct": 20.0,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 14.2,
+   "margin_pct": 28.9,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 20.8,
+   "margin_pct": 21.0,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 13.4,
+   "margin_pct": 30.0,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 29.6,
+   "margin_pct": 5.6,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 2.4,
+   "margin_pct": 42.0,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 6.8,
+   "margin_pct": 35.2,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 10.1,
+   "margin_pct": 28.1,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 18.7,
+   "margin_pct": 28.5,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 25.2,
+   "margin_pct": 24.6,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 27.3,
+   "margin_pct": 9.8,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 24.0,
+   "margin_pct": 15.7,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 25.0,
+   "margin_pct": 18.7,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 27.3,
+   "margin_pct": 16.2,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 22.5,
+   "margin_pct": 18.2,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 26.7,
+   "margin_pct": 12.1,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 23.7,
+   "margin_pct": 27.2,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 2.6,
+   "margin_pct": 41.8,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 11.9,
+   "margin_pct": 24.5,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 22.3,
+   "margin_pct": 14.5,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 21.7,
+   "margin_pct": 27.3,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 29.8,
+   "margin_pct": 17.1,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 4.5,
+   "margin_pct": 43.2,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 24.2,
+   "margin_pct": 21.5,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 18.3,
+   "margin_pct": 20.0,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 29.4,
+   "margin_pct": 14.6,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 28.1,
+   "margin_pct": 6.1,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 16.5,
+   "margin_pct": 22.2,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 0.6,
+   "margin_pct": 39.2,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 19.5,
+   "margin_pct": 24.5,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 22.5,
+   "margin_pct": 16.8,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 13.0,
+   "margin_pct": 27.8,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 24.8,
+   "margin_pct": 19.5,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 0.8,
+   "margin_pct": 40.8,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 8.8,
+   "margin_pct": 34.6,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 22.9,
+   "margin_pct": 20.2,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 7.8,
+   "margin_pct": 31.7,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 25.0,
+   "margin_pct": 20.7,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 27.3,
+   "margin_pct": 15.6,
+   "segment": "Wholesale"
+  },
+  {
+   "discount_pct": 26.9,
+   "margin_pct": 12.5,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 17.5,
+   "margin_pct": 21.7,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 12.6,
+   "margin_pct": 28.7,
+   "segment": "Online"
+  },
+  {
+   "discount_pct": 3.9,
+   "margin_pct": 36.1,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 15.7,
+   "margin_pct": 26.5,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 26.2,
+   "margin_pct": 16.4,
+   "segment": "Retail"
+  },
+  {
+   "discount_pct": 18.3,
+   "margin_pct": 24.2,
+   "segment": "Retail"
+  }
+ ]
+}
